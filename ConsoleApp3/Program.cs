@@ -6,3 +6,4 @@ Console.Write("Сколько тебе лет?");
 Console.WriteLine("{0} - прекрасный возраст", Console.ReadLine());
 Console.Write("На какой факультет тебя отправила шляпа?");
 Console.WriteLine("О, в {0} попадают только настоящие волшебники", Console.ReadLine());
+//////
